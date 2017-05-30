@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simulab-backend.iml" filepath="$PROJECT_DIR$/.idea/modules/simulab-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simulab-backend_main.iml" filepath="$PROJECT_DIR$/.idea/modules/simulab-backend_main.iml" group="simulab-backend" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simulab-backend_test.iml" filepath="$PROJECT_DIR$/.idea/modules/simulab-backend_test.iml" group="simulab-backend" />
+    </modules>
+  </component>
+</project>
