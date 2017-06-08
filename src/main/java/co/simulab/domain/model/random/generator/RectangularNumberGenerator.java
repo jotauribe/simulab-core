@@ -8,7 +8,7 @@ import java.util.LinkedHashSet;
 /**
  * Created by DiazHerrera on 30/04/2017.
  */
-public class RectangularNumbersGenerator {
+public class RectangularNumberGenerator {
 
     public static RandomNumberSet generar(int unaSemilla, int unMultiplicador, int unaConstanteAditiva, int unModulo) {
         int xi = unaSemilla;
